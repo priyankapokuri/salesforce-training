@@ -1,0 +1,155 @@
+# Salesforce Summer Training – Day 12
+
+## 1. What is Salesforce DX?
+
+Salesforce DX (Developer Experience) is a modern development approach that enables:
+
+* Source-driven development
+* Version control integration
+* Better team collaboration
+* Faster deployments
+
+### Key Benefits
+
+* Work with code instead of only using the UI
+* Track changes using Git
+* Easy deployment across environments
+* Supports modular development
+
+---
+
+## 2. Why CLI Matters
+
+Salesforce CLI allows developers to interact with Salesforce using the terminal.
+
+### Advantages
+
+* Faster than manual clicks
+* Automates repetitive tasks
+* Enables scripting and automation
+* Improves developer productivity
+
+### Example Uses
+
+* Deploy code
+* Run tests
+* Create orgs
+* Retrieve metadata
+
+---
+
+## 3. Why GitHub Matters
+
+GitHub is used for version control and collaboration.
+
+### Benefits
+
+* Tracks code changes
+* Enables team collaboration
+* Supports branching and merging
+* Provides backup and history
+
+### Developer Workflow Thinking
+
+#### Why Use GitHub + CLI + DX Instead of the Browser?
+
+Browser-based development has several limitations:
+
+* Slow and manual process
+* No proper version tracking
+* Difficult to collaborate
+* Higher risk of overwriting changes
+
+### Modern Tools Enable
+
+* Automation
+* Collaboration
+* Scalability
+* Reliability
+
+---
+
+## 4. Team Collaboration Problems (Without Tools)
+
+If multiple developers work on the same project without a proper workflow, several issues can occur:
+
+* Code conflicts
+* Overwriting changes
+* No version history
+* Difficult debugging
+* No rollback capability
+* Deployment errors
+
+### Enterprise vs College Coding
+
+| College Assignments   | Enterprise Development           |
+| --------------------- | -------------------------------- |
+| Small projects        | Large-scale systems              |
+| Single developer      | Multiple developers              |
+| Minimal testing       | Extensive testing                |
+| Simple deployment     | Structured deployment            |
+| Low complexity        | High complexity                  |
+| Limited collaboration | Team collaboration               |
+| Basic maintenance     | Rollback and recovery mechanisms |
+
+---
+
+## 5. Enterprise Workflow Discussion
+
+Enterprise systems require:
+
+### Version Control (GitHub)
+
+* Tracks changes
+* Maintains project history
+* Supports collaboration
+
+### Branching Strategy
+
+* Enables parallel development
+* Prevents conflicts in production code
+
+### Testing
+
+* Ensures reliability
+* Detects issues before deployment
+
+### Deployment Pipeline
+
+* Supports safe and controlled releases
+* Reduces deployment risks
+
+### Rollback Mechanism
+
+* Allows recovery from failures
+* Minimizes downtime and business impact
+
+---
+
+## 6. Reflection
+
+After learning Salesforce workflow concepts, I realized that:
+
+* Software development is not just coding
+* Collaboration is critical in enterprise projects
+* Tools like Salesforce DX and CLI improve efficiency
+* Version control is essential for maintaining project quality
+* Enterprise systems require structured development processes
+
+### Key Takeaways
+
+Modern software development relies on a combination of:
+
+* Source-driven development
+* Version control systems
+* Automation tools
+* Team collaboration
+* Testing and deployment strategies
+
+These practices help organizations build scalable, reliable, and maintainable applications.
+
+---
+
+## Conclusion
+
+Salesforce DX, CLI, and GitHub form the foundation of modern Salesforce development. Together, they enable developers to work efficiently, collaborate effectively, and deploy applications safely. Understanding these tools is essential for building enterprise-grade solutions that are scalable, reliable, and easy to maintain.
